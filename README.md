@@ -14,7 +14,7 @@ ssh user@eddie.ecdf.ed.ac.uk
 ~~~
 3. qlogin 
 ~~~~
-qlogin -l h_vmem=2G -pe sharedmem 6
+qlogin -l h_vmem=8G 
 ~~~~
 3. Navigate to scratch directory
 ~~~
