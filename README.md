@@ -1,5 +1,6 @@
-# ED-DASH; Pilot Workshop
+# Ed-DaSH; Nextflow Pilot Workshop
 
+Edinburgh - Data Driven Life Science Skills Development: Equipping Society For The Future (Ed-DaSH).
 
 ## Lesson Material
 
