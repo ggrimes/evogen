@@ -1,6 +1,6 @@
 # Ed-DaSH; Nextflow Pilot Workshop
 
-Edinburgh - Data Driven Life Science Skills Development: Equipping Society For The Future (Ed-DaSH).
+Edinburgh - Data Driven Life Science Skills Development: Equipping Society For The Future ([Ed-DaSH](https://www.ed.ac.uk/mrc-human-genetics-unit/news-and-events/latest-news/ukri-mrc-innovation-scholarships-initiative-award)).
 
 ## Lesson Material
 
