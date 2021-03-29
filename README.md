@@ -34,4 +34,6 @@ wget -qO- https://get.nextflow.io | bash
 export NXF_HOMEexport NXF_HOME=`pwd`/.nextflow
 ~~~
 
+## Feedback
 
+Link here
