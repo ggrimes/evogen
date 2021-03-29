@@ -1,4 +1,4 @@
-# Nextflow training workflow test workshop
+# ED-DASH; Pilot Workshop
 
 
 ## Lesson Material
