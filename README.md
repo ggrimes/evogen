@@ -32,9 +32,10 @@ cd evogen
 wget -qO- https://get.nextflow.io | bash
 
 #set NXF_HOME to current directory .nextflow
-export NXF_HOMEexport NXF_HOME=`pwd`/.nextflow
+export NXF_HOME=`pwd`/.nextflow
+export PATH=`pwd`:$PATH
 ~~~
 
 ## Feedback
 
-Link here
+Please fill out the short feedback form here https://forms.gle/5H5eaJDoCX1jz3Ft7
