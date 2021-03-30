@@ -26,7 +26,7 @@ ssh <user>@eddie.ecdf.ed.ac.uk
 ~~~
 3. qlogin to worker node.
 ~~~~
-qlogin -l h_vmem=8G 
+qlogin -pe interactivemem 4 -l h_vmem=2G 
 ~~~~
 3. Navigate to your scratch directory.
 ~~~
@@ -37,14 +37,13 @@ cd /exports/eddie/scratch/$USER
 git clone https://github.com/ggrimes/evogen
 cd evogen
 ~~~
-5. Install nextflow and set NXF_HOME dir.
+5. load nextflow and set NXF_HOME dir.
 ~~~
-#install nextflow
-wget -qO- https://get.nextflow.io | bash
+#load nextflow
+module load igmm/apps/nextflow/20.12.0-edge
 
 #set NXF_HOME to current directory .nextflow
 export NXF_HOME=`pwd`/.nextflow
-export PATH=`pwd`:$PATH
 ~~~
 
 ## Feedback
