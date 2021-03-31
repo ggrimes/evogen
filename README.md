@@ -14,6 +14,12 @@ This is an intermediate lesson and assumes familiarity with the core materials c
 
 https://carpentries-incubator.github.io/workflows-nextflow/01-getting-started-with-nextflow/index.html
 
+## Collaborative Document
+
+We will be using Google docs to share notes, link below.
+
+https://docs.google.com/document/d/121M-d2LUg8gv7gxoJxSoqZCI0PaGxp_wArT3fRwX45A/edit?usp=sharing
+
 
 ## Lesson Setup
 
@@ -49,3 +55,21 @@ export NXF_HOME=`pwd`/.nextflow
 ## Feedback
 
 Please fill out the feedback form [here](https://forms.gle/5H5eaJDoCX1jz3Ft7) after the lesson if finished. 
+
+
+## Carpentries Code of Conduct
+
+This pilot lesson will follow the carpentries code of conduct.
+Use welcoming and inclusive language
+
+* Be respectful of different viewpoints and experiences
+
+* Gracefully accept constructive criticism
+
+* Focus on what is best for the community
+
+* Show courtesy and respect towards other community members
+
+If you believe someone is violating the Code of Conduct, we ask that you report it to The Carpentries Code of Conduct Committee completing this [form](https://goo.gl/forms/KoUfO53Za3apOuOK2), who will take the appropriate action to address the situation.
+
+Compete code [here](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html)

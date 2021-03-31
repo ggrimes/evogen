@@ -1,7 +1,7 @@
 
 
 /*
- * pipelinse input parameters
+ * pipeline input parameters
  */
 params.samples  = "data/ggal/gut_1.fq"
 
