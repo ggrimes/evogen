@@ -60,7 +60,8 @@ Please fill out the feedback form [here](https://forms.gle/5H5eaJDoCX1jz3Ft7) af
 ## Carpentries Code of Conduct
 
 This pilot lesson will follow the carpentries code of conduct.
-Use welcoming and inclusive language
+
+* Use welcoming and inclusive language
 
 * Be respectful of different viewpoints and experiences
 
