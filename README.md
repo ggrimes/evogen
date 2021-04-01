@@ -14,12 +14,6 @@ This is an intermediate lesson and assumes familiarity with the core materials c
 
 https://carpentries-incubator.github.io/workflows-nextflow/01-getting-started-with-nextflow/index.html
 
-## Collaborative Document
-
-We will be using Google docs to share notes, link below.
-
-https://docs.google.com/document/d/121M-d2LUg8gv7gxoJxSoqZCI0PaGxp_wArT3fRwX45A/edit?usp=sharing
-
 
 ## Lesson Setup
 
